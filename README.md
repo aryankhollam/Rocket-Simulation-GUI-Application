@@ -3,6 +3,8 @@ A standalone Python GUI application that simulates rocket velocity using the roc
 Running the Program:
 Save the Script: Save the Python script as rocket_simulation_gui.py or any name you prefer.
 
+Required Libraries: Built with numpy, pandas, matplotlib, openpyxl and tkinter
+
 Run the Script:
 
 Navigate to the directory where the script is saved.
